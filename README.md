@@ -1,30 +1,141 @@
-<h1 align="center">Hi 👋, I'm Kishan V Meghani</h1>
-<h3 align="center">A passionate Full Stack Web Develper from India</h3>
+# Hi, I'm Kishan V. Meghani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihan2518b&label=Profile%20views&color=0e75b6&style=flat" alt="kihan2518b" /> </p>
+**Software Engineer | Full-Stack Developer | Computer Engineering Student**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kihan2518b" alt="kihan2518b" /></a> </p>
+I am a Computer Engineering student and Software Engineer with hands-on experience building web applications, custom ERP systems, CRM platforms, and business software.
 
-- 🔭 I’m currently working on [Univera](https://github.com/kihan2518B/Univera)
+I enjoy working across the full stack, from designing user interfaces and APIs to database design, backend development, system architecture, and deployment.
 
-- 🌱 I’m currently learning **Docker,Django.**
+## About Me
 
-- 👯 I’m looking to collaborate on [CareFe](https://github.com/ohcnetwork/care_fe)
+- Software Engineering Intern at [Vrugle](https://vrugle.com/)
+- B.Tech Computer Engineering student at Sankalchand Patel College of Engineering
+- Experience building and customizing ERP systems using Frappe and Python
+- Full-stack development experience with Next.js, React, TypeScript, and Node.js
+- Backend development with Python, FastAPI, and REST APIs
+- Database experience with PostgreSQL, Prisma, and MariaDB
+- Experience working on CRM, ERP, inventory, production, accounting, and business management systems
+- Interested in software architecture, scalable applications, and practical product development
 
-- 👨‍💻 All of my projects are available at [portfolio to be build](portfolio to be build)
+## Technical Skills
 
-- 💬 Ask me about **react, next, node, python, Javascript, git, github**
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
 
-- 📫 How to reach me **kishanpatel7705@gmail.com**
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Shadcn UI
+- React Hook Form
+- Recharts
+- Framer Motion
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HwpUgbfrV_yTo7XFAwWNCxU_tKzbHuXk/view?usp=sharing](https://drive.google.com/file/d/1HwpUgbfrV_yTo7XFAwWNCxU_tKzbHuXk/view?usp=sharing)
+### Backend
+- Python
+- FastAPI
+- Node.js
+- REST APIs
+- Frappe Framework
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kishanmeghani7705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishanmeghani7705" height="30" width="40" /></a>
-</p>
+### Databases and ORM
+- PostgreSQL
+- MariaDB
+- Prisma ORM
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Tools and Platforms
+- Git
+- GitHub
+- Docker
+- Postman
+- Cloudinary
+- Vercel
+- Render
+- Supabase
+- Figma
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihan2518b&show_icons=true&locale=en&layout=compact" alt="kihan2518b" /></p>
+## Professional Experience
+
+### Software Engineering Intern | Vrugle
+
+Worked on business software and custom ERP solutions, contributing to:
+
+- ERP system design and development
+- Backend development using Python and Frappe
+- Frontend development and UI implementation
+- Database and business logic development
+- Accounting, inventory, sales, and purchase workflows
+- Debugging and resolving application issues
+- Designing practical workflows for business users
+- Training and supporting junior interns
+
+## Projects
+
+### Custom ERP System
+
+Worked on a custom ERP platform for business operations, including:
+
+- Sales and purchase workflows
+- Inventory and stock management
+- Accounting and ledger management
+- Customer and supplier management
+- Invoice management
+- Business-specific workflows
+- Keyboard-first workflows for faster data entry
+
+**Technologies:** Frappe, Python, JavaScript, MariaDB
+
+### CRM
+
+Developed CRM functionality for managing the complete lead-to-customer workflow.
+
+Key areas include:
+
+- Lead management
+- Sales pipeline
+- Lead assignment
+- Team-based sales management
+- Customer management
+- Responsive UI
+- PWA support
+
+**Technologies:** Next.js, React, TypeScript, PostgreSQL, Prisma, Tailwind CSS
+
+### Decoro
+
+A product visualization and management platform for interior and laminate businesses.
+
+The platform focuses on:
+
+- Product management
+- Room template management
+- Product visualization
+- Image processing
+- Organization-based access
+- Cloud image storage
+- Python-based rendering services
+
+**Technologies:** Next.js, TypeScript, Prisma, PostgreSQL, FastAPI, Python, Cloudinary
+
+## Currently Learning
+
+- Advanced software architecture
+- Scalable full-stack application design
+- Database architecture and optimization
+- AI-assisted application development
+- System design
+- Production deployment and DevOps
+
+## Connect With Me
+
+- Email: [kishanpatel7705@gmail.com](mailto:kishanpatel7705@gmail.com)
+- GitHub: [github.com/kihan2518b](https://github.com/kihan2518b)
+- Instagram: [instagram.com/kishanmeghani7705](https://instagram.com/kishanmeghani7705)
+
+## GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kihan2518b&layout=compact&hide_border=true)
