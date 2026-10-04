@@ -1,141 +1,85 @@
-# Hi, I'm Kishan V. Meghani
+<h1 align="center">Hi 👋, I'm Kishan V. Meghani</h1>
 
-**Software Engineer | Full-Stack Developer | Computer Engineering Student**
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
-I am a Computer Engineering student and Software Engineer with hands-on experience building web applications, custom ERP systems, CRM platforms, and business software.
+<p align="center">
+  Building practical software, exploring new technologies, and turning ideas into working products.
+</p>
 
-I enjoy working across the full stack, from designing user interfaces and APIs to database design, backend development, system architecture, and deployment.
+---
 
-## About Me
+### About Me
 
-- Software Engineering Intern at [Vrugle](https://vrugle.com/)
-- B.Tech Computer Engineering student at Sankalchand Patel College of Engineering
-- Experience building and customizing ERP systems using Frappe and Python
-- Full-stack development experience with Next.js, React, TypeScript, and Node.js
-- Backend development with Python, FastAPI, and REST APIs
-- Database experience with PostgreSQL, Prisma, and MariaDB
-- Experience working on CRM, ERP, inventory, production, accounting, and business management systems
-- Interested in software architecture, scalable applications, and practical product development
+- 💻 Software Engineering Intern at [Vrugle](https://vrugle.com/)
+- 🎓 Computer Engineering student
+- 🚀 Building **ERP, CRM, and business applications**
+- 🌱 Currently working with **Frappe, Python, Next.js, and PostgreSQL**
+- 🤝 Open to collaborating on interesting projects
+- 📫 **kishanpatel7705@gmail.com**
 
-## Technical Skills
+### Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://frappe.io/" target="_blank">
+    <img src="https://frappe.io/files/frappe-framework-logo.png" alt="Frappe" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MariaDB / SQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+</p>
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Shadcn UI
-- React Hook Form
-- Recharts
-- Framer Motion
+### What I Build
 
-### Backend
-- Python
-- FastAPI
-- Node.js
-- REST APIs
-- Frappe Framework
+**ERP • CRM • Full-Stack Web Apps • Business Software • APIs**
 
-### Databases and ORM
-- PostgreSQL
-- MariaDB
-- Prisma ORM
+### Connect
 
-### Tools and Platforms
-- Git
-- GitHub
-- Docker
-- Postman
-- Cloudinary
-- Vercel
-- Render
-- Supabase
-- Figma
+<p align="left">
+  <a href="mailto:kishanpatel7705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/kihan2518b">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kishan-meghani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-## Professional Experience
-
-### Software Engineering Intern | Vrugle
-
-Worked on business software and custom ERP solutions, contributing to:
-
-- ERP system design and development
-- Backend development using Python and Frappe
-- Frontend development and UI implementation
-- Database and business logic development
-- Accounting, inventory, sales, and purchase workflows
-- Debugging and resolving application issues
-- Designing practical workflows for business users
-- Training and supporting junior interns
-
-## Projects
-
-### Custom ERP System
-
-Worked on a custom ERP platform for business operations, including:
-
-- Sales and purchase workflows
-- Inventory and stock management
-- Accounting and ledger management
-- Customer and supplier management
-- Invoice management
-- Business-specific workflows
-- Keyboard-first workflows for faster data entry
-
-**Technologies:** Frappe, Python, JavaScript, MariaDB
-
-### CRM
-
-Developed CRM functionality for managing the complete lead-to-customer workflow.
-
-Key areas include:
-
-- Lead management
-- Sales pipeline
-- Lead assignment
-- Team-based sales management
-- Customer management
-- Responsive UI
-- PWA support
-
-**Technologies:** Next.js, React, TypeScript, PostgreSQL, Prisma, Tailwind CSS
-
-### Decoro
-
-A product visualization and management platform for interior and laminate businesses.
-
-The platform focuses on:
-
-- Product management
-- Room template management
-- Product visualization
-- Image processing
-- Organization-based access
-- Cloud image storage
-- Python-based rendering services
-
-**Technologies:** Next.js, TypeScript, Prisma, PostgreSQL, FastAPI, Python, Cloudinary
-
-## Currently Learning
-
-- Advanced software architecture
-- Scalable full-stack application design
-- Database architecture and optimization
-- AI-assisted application development
-- System design
-- Production deployment and DevOps
-
-## Connect With Me
-
-- Email: [kishanpatel7705@gmail.com](mailto:kishanpatel7705@gmail.com)
-- GitHub: [github.com/kihan2518b](https://github.com/kihan2518b)
-- Instagram: [instagram.com/kishanmeghani7705](https://instagram.com/kishanmeghani7705)
-
-## GitHub
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kihan2518b&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihan2518b&layout=compact&hide_border=true" alt="Top Languages"/>
